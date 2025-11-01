@@ -1,0 +1,11 @@
+scapy
+netifaces
+psutil
+python-nmap
+flask
+matplotlib
+pandas
+pyshark
+pyyaml
+requests
+numpy
